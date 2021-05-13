@@ -1,1 +1,1 @@
-ゼロから始めるDeepLearningのch02フォルダ内で実行すること
+ゼロから作るDeepLearningのch02フォルダ内で実行すること
