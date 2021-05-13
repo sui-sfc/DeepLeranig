@@ -1,1 +1,2 @@
 ゼロから作るDeepLearningのch02フォルダ内で実行すること
+それぞれANDとORをNANDを使って書き換えている
